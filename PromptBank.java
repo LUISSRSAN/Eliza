@@ -4,8 +4,7 @@
  * description:Project Eliza
  * date created:may 05
  * date modified:may 11 
- * email:luis.santiago2@lc.cuny.edu
- * video link : https://youtu.be/cNlaYghTGa0
+
  */
 
 
